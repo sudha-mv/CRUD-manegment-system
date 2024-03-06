@@ -1,0 +1,58 @@
+/* style/Getuser.css */
+
+body {
+  font-family: Arial, sans-serif;
+    background-image: linear-gradient(to right top, #d0e928, #ffb900, #ff8130, #ff4066, #ff009d, #f50cb9, #e328d6, #c740f3, #ac46f2, #8f4bf0, #6f4dec, #484fe7);
+background-repeat: no-repeat;
+background-size: cover;
+height: 94vh;
+}
+
+div {
+  margin: 20px;
+}
+
+strong {
+  font-size: 1.5em;
+}
+
+button {
+  padding: 10px;
+  margin: 10px;
+  font-size: 1em;
+  cursor: pointer;
+}
+
+table {
+  width: 80%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 12px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+button {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 8px 16px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover {
+  background-color: #d32f2f;
+}
